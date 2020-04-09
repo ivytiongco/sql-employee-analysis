@@ -4,11 +4,11 @@ Your first major task is a research project on employees of the corporation from
 ## The EmployeeSQL folder contains:
 * 6 CSVs of data in CSV folder
 * Image file of ERD
- * employee-erd.png
+   * employee-erd.png
 * SQL file of physical schema
- * employee_physical_schema.sql 
+   * employee_physical_schema.sql 
 * SQL file of queries
- * employee.sql 
+   * employee.sql 
 * Notebook for bonus analysis
- * employee_bonus.ipynb
-  * database_config.py was included in gitignore
+   * employee_bonus.ipynb
+   * database_config.py was included in gitignore
