@@ -6,4 +6,5 @@ Your first major task is a research project on employees of the corporation from
 * Image file of ERD: employee-erd.png
 * SQL file of physical schema: employee_physical_schema.sql 
 * SQL file of queries: employee.sql 
-* Notebook for bonus analysis: employee_bonus.ipynb 
+* Notebook for bonus analysis: employee_bonus.ipynb
+  * database_config.py was included in gitignore
